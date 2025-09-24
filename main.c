@@ -25,6 +25,9 @@ int main(){
     printf("9.PRODUIT VECTEUR*MATRICE\n");
     printf("10.QUITTER\n");
     printf("choix: ");
+        if(choix==10){
+            return 0;
+        }
     scanf("%d",&choix);
     switch (choix){
     case 1:
