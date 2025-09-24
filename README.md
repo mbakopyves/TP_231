@@ -61,7 +61,7 @@ voir resultat
 
 ### produit vectouiel
 voir tableau
-![capture produit vectoriel](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-46-51)
+![capture produit vectoriel](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-46-51.png)
 
 ### produit vecteur*mactrice
 voir resulta
