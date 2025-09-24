@@ -1,0 +1,1 @@
+void produit_vectoriel();

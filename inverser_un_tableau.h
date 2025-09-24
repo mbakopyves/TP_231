@@ -1,0 +1,1 @@
+void inverser_un_tableau();
