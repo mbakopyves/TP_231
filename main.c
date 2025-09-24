@@ -30,6 +30,10 @@ int main(){
             return 0;
         }
     scanf("%d",&choix);
+    if(choix=10){
+        printf("merci pour la visite et revenez quant vous voulez. tiau!!\n");
+        return 0;
+    }
     switch (choix){
     case 1:
         somme_de_matrice();
