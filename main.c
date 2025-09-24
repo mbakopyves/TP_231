@@ -42,7 +42,7 @@ int main(){
         produit_de_matrice();
         break;
     case 3:
-        recherche_sequentielle();
+        recherche_sequentiellee();
         break;
     case 4:
         produit_par_addition();

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void recherche_sequentielle() {
+void recherche_sequentiellee() {
     int n, i, valeur, trouve = 0;
     printf("Entrez la taille du tableau : ");
     scanf("%d", &n);
