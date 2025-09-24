@@ -30,7 +30,7 @@ int main(){
             return 0;
         }
     scanf("%d",&choix);
-    if(choix=10){
+    if(choix==10){
         printf("merci pour la visite et revenez quant vous voulez. tiau!!\n");
         return 0;
     }
