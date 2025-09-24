@@ -63,5 +63,5 @@ int main(){
         printf("choix invalide! veillez faire a nous un choix qui est compris entre l'intervalle des operation\n\n");
         break;
     }
-}while (choix=!10);
+}while (choix<=10);
 }
