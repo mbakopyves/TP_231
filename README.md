@@ -26,50 +26,50 @@ voici l'image de cet page d'acceuil
 ![capture main](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-37-34.png)
 ### Somme de matrices
 voir le resultat apres operation
-![Capture Produit de matrices](capture_de_resultat/Capture%20d'écrant%du%2025-09-24%18-40-15.png)
+![Capture Produit de matrices](capture_de_resultat/Capture%20d'écrant%20du%202025-09-24%2018-40-15.png)
 
 ### Produit de matrices
 dans cet fonction nous avons mie des une Nb: le nombre de colonne de la 1er matrice doit etre le meme nombre de ligne de la matrice 2
 voir image en cas de non respect de cet NB 
-![capture somme de matrice en cas de non respect](capture_de_resut/capture%20d'écrant%20du%2025-09-24%18-41-34.png)
+![capture somme de matrice en cas de non respect](capture_de_resut/capture%20d'écrant%20du%202025-09-24%2018-41-34.png)
 
 en cas de validation du NB
-![Capture Somme de matrices](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-41-55.png)
+![Capture Somme de matrices](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-41-55.png)
 
 
 ### Recherche séquentielle
 voir en cas de non trouver
-![capture recherche sequenteille](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-44-14.png)
+![capture recherche sequenteille](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-44-14.png)
 en cas de nombre trouver
-![Capture Recherche séquentielle](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-44-39.png)
+![Capture Recherche séquentielle](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-44-39.png)
 
 ### a*b pour a,b>0 en utilisant uniquement +1
 voir resultat
-![capture de a*b en utilisant +1](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-45-02.png)
+![capture de a*b en utilisant +1](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-45-02.png)
 
 ### tester si un tableau est trie
 voir resltat
-![capture tableau trie](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-45-41.png)
+![capture tableau trie](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-45-41.png)
 
 ### le median dans un tableau
 voir resulta
-![capture median](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-46-01.png)
+![capture median](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-46-01.png)
 
 ### inverser un tableau
 voir resultat
-![capture inverser tableau](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-46-28.png)
+![capture inverser tableau](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-46-28.png)
 
 ### produit vectouiel
 voir tableau
-![capture produit vectoriel](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-46-51)
+![capture produit vectoriel](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-46-51)
 
 ### produit vecteur*mactrice
 voir resulta
-![capture produit vecteur matrice](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-47-32.png)
+![capture produit vecteur matrice](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-47-32.png)
 
 ### fermeture
 voir image
-![capture fin](capture_de_resultat/Capture%20d’écran%20du%2025-09-24%18-47-52.png)
+![capture fin](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-47-52.png)
 
 ## Liste des participants (nom et matricule)
 - YANKOUA MBAKOP YVES STEPHANE   24G2413
