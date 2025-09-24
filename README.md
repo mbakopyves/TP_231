@@ -43,6 +43,3 @@ gcc *.c -o main
 - Un main.c pour le menu et l’appel des fonctions
 - Un README.md pour la documentation
 
-## Remarques
-- Les images doivent être placées dans le dossier du projet ou un sous-dossier (ex : `images/`).
-- Modifie ce README pour ajouter tes propres captures et informations.
