@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void tester_si_trie() {
     int n, i, estTrie = 1;

@@ -29,12 +29,10 @@ void produit_de_matrice() {
 		for(j = 0; j < colonnes2; j++)
 			scanf("%d", &matrice2[i][j]);
 
-	// Initialisation du produit
 	for(i = 0; i < lignes1; i++)
 		for(j = 0; j < colonnes2; j++)
 			produit[i][j] = 0;
 
-	// Calcul du produit
 	for(i = 0; i < lignes1; i++) {
 		for(j = 0; j < colonnes2; j++) {
 			for(k = 0; k < colonnes1; k++) {

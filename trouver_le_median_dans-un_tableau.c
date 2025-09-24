@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void trier_tableau(int tab[], int n) {
     int i, j, tmp;
