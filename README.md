@@ -77,7 +77,7 @@ voir image
 - TSAKOU TCHINDA GERBERT D'AURILLAC 24G2346
 - Kamwa Gatcheussi Patrice Wilfried 24G2170
 - LEKANE KOUNLAG BRIAND DURRANDE  24H2288
-- NGALEU YAMDJA GLORy 24G2640, 
+- NGALEU YAMDJA GLORY 24G2640, 
 ## Structure du projet
 - Un fichier source par fonctionnalité
 - Un main.c pour le menu et l’appel des fonctions
