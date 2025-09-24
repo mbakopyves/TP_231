@@ -26,6 +26,7 @@ int main(){
     printf("10.QUITTER\n");
     printf("choix: ");
         if(choix==10){
+            printf("merci pour la visite et nous experons vous revoir pour une nouvelle experrience de manipulations des tableau et matrice");
             return 0;
         }
     scanf("%d",&choix);
@@ -63,5 +64,4 @@ int main(){
         break;
     }
 }while (choix=!10);
-    return 0;
 }
