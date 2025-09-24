@@ -31,7 +31,7 @@ voir le resultat apres operation
 ### Produit de matrices
 dans cet fonction nous avons mie des une Nb: le nombre de colonne de la 1er matrice doit etre le meme nombre de ligne de la matrice 2
 voir image en cas de non respect de cet NB 
-![capture somme de matrice en cas de non respect](capture_de_resut/capture%20d'écrant%20du%202025-09-24%2018-41-34.png)
+![capture somme de matrice en cas de non respect](capture_de_resutat/capture%20d'écrant%20du%202025-09-24%2018-41-34.png)
 
 en cas de validation du NB
 ![Capture Somme de matrices](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-41-55.png)
