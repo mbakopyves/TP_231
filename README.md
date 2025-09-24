@@ -5,9 +5,9 @@ Ce projet regroupe plusieurs fonctions classiques de manipulation de tableaux et
 - Somme de matrices
 - Produit de matrices
 - Recherche séquentielle dans un tableau
-- Produit de deux entiers par addition
+- a+b pour a,b>0 en utilisant exclivement +1
 - Test si un tableau est trié
-- Calcul du médian
+- Calcul du médian dans un tableau
 - Inversion d’un tableau
 - Produit vectoriel
 - Produit vecteur × matrice
