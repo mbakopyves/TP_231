@@ -34,7 +34,7 @@ voir image en cas de non respect de cet NB
 ![capture somme de matrice en cas de non respect](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-41-34.png)
 
 en cas de validation du NB
-![Capture Somme de matrices](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-41-55.png)
+![Capture Somme de matrices](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-42-57.png)
 
 
 ### Recherche séquentielle
