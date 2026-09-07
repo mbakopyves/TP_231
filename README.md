@@ -1,4 +1,4 @@
-# TP 231 : Opérations sur les tableaux et matrices en C
+# Opérations sur les tableaux et matrices en C
 
 ## Description du projet
 Ce projet regroupe plusieurs fonctions classiques de manipulation de tableaux et de matrices en langage C :
@@ -71,13 +71,6 @@ voir resulta
 voir image
 ![capture fin](capture_de_resultat/Capture%20d’écran%20du%202025-09-24%2018-47-52.png)
 
-## Liste des participants (nom et matricule)
-- YANKOUA MBAKOP YVES STEPHANE   24G2413
-- NDAOBA MOHAMAT 24G2687
-- TSAKOU TCHINDA GERBERT D'AURILLAC 24G2346
-- Kamwa Gatcheussi Patrice Wilfried 24G2170
-- LEKANE KOUNLAG BRIAND DURRANDE  24H2288
-- NGALEU YAMDJA GLORY 24G2640, 
 ## Structure du projet
 - Un fichier source par fonctionnalité
 - Un main.c pour le menu et l’appel des fonctions
